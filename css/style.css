@@ -108,10 +108,14 @@ section:nth-child(2n){
 
 #about-section{
   width: 75%;
-  margin: -70px auto 0px;
+  margin: 0px auto 0px;
   position: relative;
   z-index: 1;
 
+}
+
+.about-img{
+  margin-top: -70px;
 }
 
 .about-img img{

@@ -110,6 +110,7 @@ section:nth-child(2n){
   width: 75%;
   margin: 0px auto 0px;
   position: relative;
+  padding-bottom: 50px;
   z-index: 1;
 
 }
@@ -132,7 +133,6 @@ section:nth-child(2n){
   font-family: sans-serif;
   font-size: 1.01rem;
   color: grey;
-  margin-bottom: 50px;
 }
 
 #about-section p span{
